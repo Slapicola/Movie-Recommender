@@ -1,0 +1,138 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton", "William Sadler"]
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine"
+    ]
+  },
+  {
+    "title": "Inception",
+    "genre": "Science Fiction",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "actors": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise", "Sally Field"]
+  },
+  {
+    "title": "The Matrix",
+    "genre": "Science Fiction",
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ]
+  },
+  {
+    "title": "Titanic",
+    "genre": "Romance",
+    "actors": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane", "Kathy Bates"]
+  },
+  {
+    "title": "Jurassic Park",
+    "genre": "Adventure",
+    "actors": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough"
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "Fantasy",
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Orlando Bloom"
+    ]
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "genre": "Animation",
+    "actors": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ]
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Science Fiction",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ]
+  },
+  {
+    "title": "The Godfather",
+    "genre": "Crime",
+    "actors": ["Marlon Brando", "Al Pacino", "James Caan", "Robert Duvall"]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "genre": "Fantasy",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint",
+      "Richard Harris"
+    ]
+  },
+  {
+    "title": "La La Land",
+    "genre": "Romance",
+    "actors": ["Ryan Gosling", "Emma Stone", "John Legend", "Rosemarie DeWitt"]
+  },
+  {
+    "title": "The Notebook",
+    "genre": "Romance",
+    "actors": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "James Garner",
+      "Gena Rowlands"
+    ]
+  },
+  {
+    "title": "The Green Mile",
+    "genre": "Drama",
+    "actors": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse",
+      "Bonnie Hunt"
+    ]
+  }
+
+]
