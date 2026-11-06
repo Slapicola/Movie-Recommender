@@ -12,7 +12,7 @@ public class Main {
         try {
         
             String json = Files.readString(
-                    Paths.get("Java-Repo/Java Projects/movies.json")
+                    Paths.get("movies.json")
 
             );
 
